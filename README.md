@@ -1,4 +1,3 @@
-<!-- MatplotlibPlots_20251001181347_9467 -->
 
 # MatplotlibPlots: Data Visualization at the Nexus of Innovation and Scalability
 
